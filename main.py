@@ -3,8 +3,6 @@ from apps import sign_up, login, home
 
 st.set_page_config(
     page_title="Stock Market App",
-    page_icon="chart_with_upwards_trend",
-)
 
 def main():
     
